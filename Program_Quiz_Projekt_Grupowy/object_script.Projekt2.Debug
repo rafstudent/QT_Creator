@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\firstdialog.o
+./debug\seconddialog.o
+./debug\threedialog.o
+./debug\fourthdialog.o
+./debug\moc_mainwindow.o
+./debug\moc_firstdialog.o
+./debug\moc_seconddialog.o
+./debug\moc_threedialog.o
+./debug\moc_fourthdialog.o
+);
